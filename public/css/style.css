@@ -5,7 +5,7 @@
 }
 
 body {
-	background-image: linear-gradient(to bottom, #c203fc42, rgba(255, 0, 0, 0.1), rgba(0, 0, 255, 0.2));
+	background: #f1fbff;
 }
 .section-header h2{
 	color: rgb(255, 255, 255);
